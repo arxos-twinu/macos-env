@@ -48,6 +48,10 @@ After installation, you need to open the .zshrc file and add the following:
 # Recommended
 The following are not required but can be helpful for easier terminal usage.
 
+## Install rectangle for window management:
+```brew install --cask rectangle```
+Now you can send an active window to any half of the screen with a custom key combination
+
 ## Install zplug for zsh configuration management:
 ```brew install zplug```
 
